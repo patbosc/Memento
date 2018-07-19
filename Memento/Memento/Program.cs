@@ -12,6 +12,8 @@ namespace Memento
 {
     public class Program
     {
+        //https://medium.com/@mirela95/asp-net-core-2-0-mvc-with-reactjs-net-basic-setup-and-example-template-4811b10b114a
+
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
