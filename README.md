@@ -11,10 +11,10 @@ Memento - A memento is a keepsake or souvenir of remembrance. Which is the Wikip
 |[![](https://ocpte.visualstudio.com/_apis/public/build/definitions/758c51ee-9425-40cb-8e49-c9205c103bca/1/badge)](https://ocpte.visualstudio.com/Memento/_build?_a=completed&definitionId=1)|
 
 Purpose of the Memento Project:
-- Allows users to interact with the Blob Storage via the Browser. 
-  - Upload and Download Files by Entering the Blob Storage Credentials or Url
-  - Allow Users to List the Content in a Public Blob Storage Container
-  - Download Files from a Blob Storage Container
-  - Upload Files to Blob Storage Containers
-- Allows Users to easily set the Access Policies of the Container or Files in a Container
+- [] Allows users to interact with the Blob Storage via the Browser. 
+  - [] Upload and Download Files by Entering the Blob Storage Credentials or Url
+  - [] Allow Users to List the Content in a Public Blob Storage Container
+  - [] Download Files from a Blob Storage Container
+  - [] Upload Files to Blob Storage Containers
+- [] Allows Users to easily set the Access Policies of the Container or Files in a Container
 
