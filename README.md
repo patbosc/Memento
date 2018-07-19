@@ -8,7 +8,7 @@ Memento - A memento is a keepsake or souvenir of remembrance. Which is the Wikip
 
 |Windows x64 |
 |:------:|
-|[![](https://ocpte.visualstudio.com/_apis/public/build/definitions/758c51ee-9425-40cb-8e49-c9205c103bca/1/badge)](https://ocpte.visualstudio.com/Memento/_build?_a=completed&definitionId=1)|
+|[![](https://ocpte.visualstudio.com/_apis/public/build/definitions/758c51ee-9425-40cb-8e49-c9205c103bca/1/badge)](https://ocpte.visualstudio.com/Memento/_build?_a=completed&definitionId=1) [![Join the chat at https://gitter.im/msftMemento/Lobby](https://badges.gitter.im/msftMemento/Lobby.svg)](https://gitter.im/msftMemento/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)|
 
 Purpose of the Memento Project:
 - [] Allows users to interact with the Blob Storage via the Browser. 
