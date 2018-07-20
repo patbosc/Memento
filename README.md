@@ -11,6 +11,7 @@ At microsoft we work quite a lot with Costumers and Partners and while Blob Stor
 Memento - A memento is a keepsake or souvenir of remembrance. Which is the Wikipedia definition but also refers to the state which is also discussed in the [Memento Software Design Pattern](https://en.wikipedia.org/wiki/Memento_pattern).
 
 Purpose of the Memento Project:
+---
 - [] Allows users to interact with the Blob Storage via the Browser. 
   - [] Upload and Download Files by Entering the Blob Storage Credentials or Url
   - [] Allow Users to List the Content in a Public Blob Storage Container
@@ -18,3 +19,18 @@ Purpose of the Memento Project:
   - [] Upload Files to Blob Storage Containers
 - [] Allows Users to easily set the Access Policies of the Container or Files in a Container
 
+Features
+---
+- Tables
+ - [] Create/Delete Tables
+ - [] Query/Create/Read/Update/Delete Entities
+- Blobs
+ - [] Create/Read/Update/Delete Blobs
+- Files
+ - [] Create/Update/Delete Directories
+ - [] Create/Read/Update/Delete Files
+ - [] Filewatcher
+- Queues
+ - [] Create/Delete Queues
+ - [] Insert/Peek Queue Messages
+ - [] Advanced Queue Operations
