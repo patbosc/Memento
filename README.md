@@ -22,15 +22,15 @@ Purpose of the Memento Project:
 Features
 ---
 - Tables
- - [] Create/Delete Tables
- - [] Query/Create/Read/Update/Delete Entities
+   - [] Create/Delete Tables
+   - [] Query/Create/Read/Update/Delete Entities
 - Blobs
- - [] Create/Read/Update/Delete Blobs
+   - [] Create/Read/Update/Delete Blobs
 - Files
- - [] Create/Update/Delete Directories
- - [] Create/Read/Update/Delete Files
- - [] Filewatcher
+   - [] Create/Update/Delete Directories
+   - [] Create/Read/Update/Delete Files
+   - [] Filewatcher
 - Queues
- - [] Create/Delete Queues
- - [] Insert/Peek Queue Messages
- - [] Advanced Queue Operations
+   - [] Create/Delete Queues
+   - [] Insert/Peek Queue Messages
+   - [] Advanced Queue Operations
