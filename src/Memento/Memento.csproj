@@ -10,9 +10,11 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.1.1" />
     <PackageReference Include="Microsoft.Azure.Management.Storage.Fluent" Version="1.13.0" />
     <PackageReference Include="Microsoft.Azure.Storage.Blob" Version="9.4.0-preview" />
     <PackageReference Include="Microsoft.Azure.Storage.Common" Version="9.4.0.2-preview" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
   </ItemGroup>
 
 </Project>
