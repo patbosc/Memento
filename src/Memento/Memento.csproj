@@ -15,6 +15,9 @@
     <PackageReference Include="Microsoft.Azure.Storage.Blob" Version="9.4.0-preview" />
     <PackageReference Include="Microsoft.Azure.Storage.Common" Version="9.4.0.2-preview" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="3.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="3.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="3.0.0" />
   </ItemGroup>
 
 </Project>
